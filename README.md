@@ -1,16 +1,16 @@
 # website-template
-Use this template to initialize your website with a basic structure and starter code that utilizes Bootstrap, jQuery, and Font Awesome Icons CDNs.
+Use this template to initialize your website with a basic structure and starter code that utilizes Bootstrap, jQuery, and Font Awesome CDNs.
 
 ## Current Release Details
-<b>Bootstrap</b> v4.5.2
+<b>Bootstrap</b> v4.5.3
 <br>
-<b>Font Awesome</b> v5.14.0
+<b>Font Awesome</b> v5.15.1
 
 ## Future Release Plans
 <ul>
   <li>More detailed starter code</li>
   <li>Additional example pages</li>
- </ul>
+</ul>
 
 ## Additional Resources
 Google JavaScript Style Guide: https://google.github.io/styleguide/jsguide.html
