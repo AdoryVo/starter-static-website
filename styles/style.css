@@ -1,13 +1,17 @@
-/* ---------- GLOBAL STYLES --------- */
+/* ---------- IMPORTS ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* ---------- GLOBAL STYLES ---------- */
 html {
     scroll-behavior: smooth;
 }
 
 body {
     padding-top: 3.5rem;
+    font-family: 'Inter', sans-serif;
 }
 
-/* ---------- HOME --------- */
+/* ---------- HOME ---------- */
 #someUniqueElement {
 
 }
@@ -16,9 +20,9 @@ body {
 
 }
 
-/* ---------- SOME PAGE --------- */
+/* ---------- SOME PAGE ---------- */
 
-/* ---------- MEDIA QUERIES --------- */
+/* ---------- MEDIA QUERIES ---------- */
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Static Website Template",
+  "short_name": "Website Template",
+  "icons": [
+    {
+      "src": "images/150x150-Placeholder.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=a2hs",
+  "theme_color": "#212529",
+  "background_color": "#212529",
+  "display": "standalone"
+}

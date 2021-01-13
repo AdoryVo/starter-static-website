@@ -1,15 +1,17 @@
 # website-template
-Use this template to initialize your website with a basic structure and starter code that utilizes Bootstrap, jQuery, and Font Awesome CDNs.
+Use this template to initialize your website with a basic structure and starter code that utilizes Bootstrap and Bootstrap Icons.
 
 ## Current Release Details
-<b>Bootstrap</b> v4.5.3
+<b>Bootstrap</b> v5.0
 <br>
-<b>Font Awesome</b> v5.15.1
+<b>Bootstrap Icons</b> v1.3.0
+<br>
+<b>jQuery Core</b> v3.5.1
 
 ## Future Release Plans
 <ul>
-  <li>More detailed starter code</li>
-  <li>Additional example pages</li>
+    <li>More detailed starter code</li>
+    <li>Additional example pages</li>
 </ul>
 
 ## Additional Resources
@@ -26,3 +28,5 @@ Placeholder.com - Free Image Placeholder Service: https://placeholder.com
 SRI Hash Generator: https://www.srihash.org
 <br>
 My Node.js Website Template: https://github.com/AdoryVo/node-website-template
+<br>
+My MERN Stack Web App Template: https://github.com/AdoryVo/mern-stack-template
