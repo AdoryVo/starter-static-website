@@ -27,6 +27,4 @@ Placeholder.com - Free Image Placeholder Service: https://placeholder.com
 <br>
 SRI Hash Generator: https://www.srihash.org
 <br>
-My Node.js Website Template: https://github.com/AdoryVo/node-website-template
-<br>
-My MERN Stack Web App Template: https://github.com/AdoryVo/mern-stack-template
+My other templates and projects: https://github.com/AdoryVo
