@@ -8,7 +8,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/?utm_source=a2hs",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
   "theme_color": "#212529",
   "background_color": "#212529",
   "display": "standalone"

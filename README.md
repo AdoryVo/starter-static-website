@@ -2,11 +2,11 @@
 Use this template to initialize your website with a basic structure and starter code that utilizes Bootstrap and Bootstrap Icons.
 
 ## Current Release Details
-<b>Bootstrap</b> v5.0
+<b>Bootstrap</b> v5.2.2
 <br>
-<b>Bootstrap Icons</b> v1.3.0
+<b>Bootstrap Icons</b> v1.9.1
 <br>
-<b>jQuery Core</b> v3.5.1
+<b>jQuery Core</b> v3.6.1
 
 ## Future Release Plans
 <ul>
