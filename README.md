@@ -1,4 +1,4 @@
-# website-template
+# starter-static-website
 Use this template to initialize your website with a basic structure and starter code that utilizes Bootstrap and Bootstrap Icons.
 
 ## Current Release Details
@@ -18,8 +18,6 @@ Use this template to initialize your website with a basic structure and starter 
 Google JavaScript Style Guide: https://google.github.io/styleguide/jsguide.html
 <br>
 Bootstrap Docs: https://getbootstrap.com/docs
-<br>
-Font Awesome Free Icons Gallery: https://fontawesome.com/icons?d=gallery&m=free
 <br>
 Can I Use... - Browser support tables for HTML5, CSS3, etc: https://caniuse.com
 <br>

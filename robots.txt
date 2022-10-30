@@ -4,4 +4,4 @@ User-agent: *
 Allow: /
 
 # https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview
-Sitemap: https://adoryvo.github.io/website-template/sitemap.xml
+Sitemap: https://adoryvo.github.io/starter-static-website/sitemap.xml
